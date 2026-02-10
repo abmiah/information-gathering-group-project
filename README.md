@@ -1,6 +1,6 @@
 # Information Gathering - Group Project
 
-### Contributers 
+### Contributors 
 - Akshay - https://github.com/akshaykkarn-ops
 - Arjeta - Add link
 - Amrol - https://github.com/abmiah
