@@ -2,7 +2,7 @@
 
 ### Contributers 
 - Akshay - https://github.com/akshaykkarn-ops
-- Arjeta - link
+- Arjeta
 - Amrol - https://github.com/abmiah
 
 ## Legal Disclaimer 
